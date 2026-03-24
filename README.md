@@ -1,75 +1,49 @@
-<h1 align="center">Abdoul Ouedraogo</h1>
-<h3 align="center">🚀 AI Engineer Elite | Data Scientist | ML Researcher</h3>
+<h1 align="center">👋 Abdoul Ouedraogo</h1>
+<h3 align="center">🚀 AI Engineer | Data Scientist | ML Researcher</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TON_USERNAME&label=Profile%20Views&color=6366f1&style=for-the-badge" />
+  <a href="https://TON_USERNAME.github.io/NOM_DU_REPO/">
+    🌐 Voir mon Portfolio
+  </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🧠 À propos de moi
 
-<img align="left" width="180" src="assets/profile.png" style="border-radius:50%; border:3px solid #6366f1;" />
+Je suis spécialisé en :
 
-- 🧠 Specialized in Machine Learning & AI Systems  
-- 📊 Advanced Data Analytics & Predictive Modeling  
-- 🌱 Agricultural & Educational AI Research  
-- ⚡ Building scalable intelligent systems  
-
-<br clear="left"/>
+- 🤖 Machine Learning & Deep Learning  
+- 📊 Analyse de données avancée  
+- 🏗️ Architecture de systèmes intelligents  
+- 🌱 IA appliquée à l’agriculture  
+- 🎓 Modélisation de progression éducative  
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Stack technique
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,fastapi,docker,git,linux" />
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,docker,git,linux" />
 </p>
 
 ---
 
-## 🏆 Réalisations
-
-- 🔥 Predictive model for student performance progression  
-- 🌾 AI crop yield prediction system  
-- 📈 Multi-dataset statistical analysis pipelines  
-- 🤖 Automated ML optimization workflows  
-
----
-
-## 📚 Research & Publications
-
-- **AI-driven Agricultural Prediction Models**  
-- **Deep Learning for Educational Progress Analytics**  
-- **Optimization Algorithms for Data Systems**
-
----
-
-## 📊 GitHub Activity
+## 📊 Statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TON_USERNAME&theme=tokyonight&hide_border=true&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TON_USERNAME&theme=tokyonight" height="170"/>
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+## 📫 Me contacter
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
-## 🌐 Connect with me
-
-<p align="left">
-  <a href="#"><img src="assets/linkedin.svg" width="40"/></a>
-  <a href="#"><img src="assets/kaggle.svgg" width="40"/></a>
-  <a href="#"><img src="assets/twitter.svg" width="40"/></a>
-</p>
+- 💼 LinkedIn : [Ton LinkedIn](https://linkedin.com/)
+- 🧪 Kaggle : [Ton Kaggle](https://kaggle.com/)
+- 🐦 Twitter : [Ton Twitter](https://twitter.com/)
 
 ---
 
-⭐ *Building the future with Artificial Intelligence*
+⭐ *Building intelligent systems for real-world impact*
