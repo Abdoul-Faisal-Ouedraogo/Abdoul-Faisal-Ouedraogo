@@ -4,9 +4,9 @@
   
 ###  Master's Student in Data Science |  Data Analyst & Engineer |  ML Enthusiast
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nico-frank-wilfried-dena-414561216/)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:franckdena@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=github)](https://github.com/DenaNico1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/abdoul-faïsal-ouedraogo-b9090b259/)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:ouedraogoabdoulfaisal47@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=github)](https://github.com/Abdoul-Faisal-Ouedraogo)
 
 </div>
 
@@ -14,28 +14,28 @@
 
 ## About Me
 
-I'm a **Master's student specializing in Data Science**, passionate about transforming data into actionable insights. Currently seeking a **6-month internship starting April 2026** in Data Engineering, Data Analysis, or Machine Learning.
+I'm a **Master's student specializing in Data Engineering**, passionate about building robust data pipelines and scalable architectures. Currently seeking an  **apprenticeship starting September 2026** in Data Engineering, Data Analysis, Big Data or Machine Learning.
 
 **What drives me:** Bridging the gap between raw data and business decisions through analytics, visualization, and automation.
 
 ### 🎯 Key Highlights
 
-- 📊 Built **Power BI dashboards** tracking **67 KPIs** for humanitarian programs
-- 🏭 Developed **BI tools** for Michelin's financial operations at Capgemini
-- 🔬 Analyzed medical data at **Centre Jean Perrin** (cancer research)
+- 📊 Built **Power BI dashboards** tracking **67 KPIs** for humanitarian programs monitoring
+- 🏭 Developed **BI tools** supporting financial operations at Open Burkina (marchés publics)
 - ⚡ Automated **ETL pipelines** with Airflow, reducing processing time by 40%
 - 🌍 International experience in **Burkina Faso** with NGOs
-
+🤖 Created a **web application with integrated AI features**, enabling intelligent data processing and user‑centric automation
 ---
 
 ## 💼 Professional Experience
 
 | Role | Company | Period | Key Achievement |
 |------|---------|--------|-----------------|
-|  **Data Engineer Intern** | Capgemini - Michelin | Mar-Sep 2025 | Built financial KPI dashboards with Power BI |
-|  **Data Analyst** | Centre Jean Perrin | Oct 2024-Sep 2025 | Analyzed cancer treatment data |
-|  **Data Scientist** | Danish Refugee Council | May-Aug 2024 | NLP sentiment analysis on 50K+ tweets |
-|  **Data Engineer** | Save the Children Intl | Jan-Apr 2024 | Automated ETL pipelines & created 67 KPIs |
+| **Data Science Intern** | I2M Laboratory – Marseille | May–Aug 2025 | Built ETL processes and interactive dashboards to analyze L1 student success |
+| **Consultant Data Scientist** | Save the Children International | Aug–Sep 2024 | Applied ML models for sentiment analysis on Sahel‑related Twitter data with automated pipelines |
+| **Data Specialist** | Open Burkina | Dec 2023–Jul 2024 | Automated public procurement data extraction and built Power BI dashboards |
+| **Data Analyst** | Danish Refugee Council | Jul–Dec 2023 | Designed Power BI dashboards tracking 67+ KPIs and automated data pipelines |
+
 
 ---
 
@@ -85,23 +85,19 @@ I'm a **Master's student specializing in Data Science**, passionate about transf
 
 ## 🎯 Featured Projects
 
-### 📊 [Energy Performance Diagnosis (DPE) Analysis](https://github.com/DenaNico1/m2_enedis)
-**Tech:** Python, Docker, FastAPI, Streamlit, Scikit-learn  
-- Extracted & analyzed 100K+ energy data points via Ademe/Enedis APIs
-- Built ML models for DPE classification and energy cost prediction
-- Deployed interactive dashboard with Streamlit + REST API
+### ⚽ [Automated Public Procurement Data Pipeline](https://github.com/Abdoul-Faisal-Ouedraogo)
+**Tech:** Python, Airflow, PostgreSQL, Docker Compose, GitHub Actions  
+- Built an **end‑to‑end ETL pipeline** orchestrated with **Airflow** to extract, clean & load public procurement data
+- Containerized the entire stack with **Docker Compose** (Airflow, DB, API) 
+- Implemented CI/CD with **GitHub Actions** for automated testing & deployment
 
-### ⚽ [International Football OLAP Analysis](https://github.com/DenaNico1/apache-doris-football)
-**Tech:** SQL, Apache Doris, Python  
-- Performed multidimensional analysis on 1M+ football records
-- Achieved sub-2-second query times on complex aggregations
-- Demonstrated MPP architecture expertise
-
-### 🔄 [NGO Data Pipeline Automation](https://github.com/DenaNico1/save-children-etl)
-**Tech:** Python, Airflow, Power BI  
-- Automated ETL pipeline for humanitarian data migration
-- Created 67-KPI dashboard for strategic decision-making
-- Reduced data processing time by 40%
+### 🔄 [MLOps Pipeline for Social Media Sentiment Analysis](https://Abdoul-Faisal-Ouedraogo)
+**Tech:** Python, Airflow, FastAPI, Docker, MLflow, GitHub Actions   
+- Built a sentiment analysis model for Sahel‑related Twitter data using **transformers** 
+- Exposed the model through a **FastAPI inference API** with autoscaling‑ready architecture
+- Implemented **CI/CD**: automated tests, model packaging, Docker image publishing
+- Logged experiments, metrics & model versions with **MLflow**
+- Deployed the API on a cloud environment (Docker)
 
 ---
 
@@ -116,31 +112,31 @@ I'm a **Master's student specializing in Data Science**, passionate about transf
 
 ## 🎓 Education
 
-**Master 2 - Statistics & Computer Science for Data Science (SISE)**  
-📍 Université Lyon 2 | 2025-2026
+**Master 1 - Data Engineer**  
+📍 Université de Corse | 2025-2026
 
-**Master 1 - Computer Science**  
-📍 Université Clermont Auvergne (ISIMA) | 2024-2025
+**ILicence Informatique Décisionnelle, Statistique & Big Data**  
+📍 Université d'Aix Marseille | 2024-2025
 
 ---
 
 ##  Let's Connect!
 
-I'm actively looking for **internship opportunities** in:
+I'm actively seeking a **work‑study (apprenticeship) position starting September 2026** in:
 -  **Data Engineering** / ETL Development
 -  **Machine Learning** / Data Science
 -  **Data Analysis** / Business Intelligence
 
 
-**Open to:** Full-time internships (6 months) starting April 2026 | Remote or on-site in France
+**Open to:** 12–24 month apprenticeships | Remote or on‑site in France
 
  **Let's collaborate!** Feel free to reach out for projects, discussions, or opportunities.
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nico-frank-wilfried-dena-414561216/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:franckdena@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DenaNico1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/abdoul-faïsal-ouedraogo-b9090b259/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ouedraogoabdoulfaisal47@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdoul-Faisal-Ouedraogo)
 
 </div>
 
